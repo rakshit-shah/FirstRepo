@@ -70,6 +70,7 @@
     "through2": "^2.0.3",
     "tslint": "^5.10.0",
     "typescript": "^2.8.3",
-    "webpack": "^4.8.3"
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3"
   }
 }
